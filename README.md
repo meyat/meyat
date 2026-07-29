@@ -1,5 +1,6 @@
-<h1 align="center">Hi there, I'm Vincent 👋</h1>
-<h3 align="center">Automation & Bot Builder 🤖</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=180&section=header&text=Vincent%20Jordan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Automation%20%26%20Bot%20Builder&descAlignY=55&descSize=20" alt="header banner" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=I+build+bots+that+work+while+you+don't;WhatsApp+bots+%7C+Trading+bots+%7C+Game+bots;JavaScript+%7C+Python+%7C+Node.js;Turning+repetitive+tasks+into+one-click+solutions" alt="Typing SVG" />
@@ -59,8 +60,34 @@
 
 ---
 
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meyat&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+### 💭 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" alt="Random Dev Quote" />
+</p>
+
+---
+
 <p align="center">
   <a href="https://instagram.com/vinnc6"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>⚡ Got a repetitive task that needs a bot? Let's talk.</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=100&section=footer" alt="footer banner" />
+</p>
