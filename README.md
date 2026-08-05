@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Meyat banner" width="100%" />
+</p>
+
 <h1 align="center">Hi there, I'm Vincent 👋</h1>
 <h3 align="center">Vibe Coder 🤙</h3>
 
