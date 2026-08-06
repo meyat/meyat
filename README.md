@@ -1,70 +1,280 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Vincent%20Jordan;Welcome+to+my+profile!" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/296429951?u=58a23376407349e0b14ed4dd73a48d8335d9534c&v=4" width="150" style="border-radius: 50%;" alt="Vincent Jordan" />
-</p>
+<img
+src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=FF3D00&center=true&vCenter=true&width=700&lines=Vincent+Jordan;Automation+%26+Bot+Builder;Code.+Build.+Automate.+Repeat."
+alt="Typing introduction"
+/>
 
-## 👨‍💻 About Me
+<br>
 
-Code. Build. Learn. Repeat.
+<img
+src="https://avatars.githubusercontent.com/u/296429951?v=4"
+width="145"
+alt="Vincent Jordan"
+/>
 
-- 📍 Based in **Indonesia**
-- 🌐 Check out my [website](https://vinjor.web.id)
-- 👥 **0** followers · **1** following
+<br><br>
 
-## 🛠️ Languages & Tools
+<a href="https://github.com/meyat">
+  <img src="https://img.shields.io/github/followers/meyat?label=Followers&style=for-the-badge&color=E53935&labelColor=160808" alt="GitHub followers">
+</a>
+<a href="https://github.com/meyat?tab=repositories">
+  <img src="https://img.shields.io/badge/Public_Repositories-6-FF5722?style=for-the-badge&labelColor=160808" alt="Public repositories">
+</a>
+<a href="https://vinjor.web.id">
+  <img src="https://img.shields.io/badge/Portfolio-vinjor.web.id-FF9800?style=for-the-badge&labelColor=160808" alt="Portfolio">
+</a>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+</div>
 
+<br>
 
-## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/premium-card?username=meyat&theme=aurora" alt="GitHub Stats" />
-</p>
+```text
+╔══════════════════════════════════════════════════╗
+║        AUTOMATION • BOTS • SOFTWARE TOOLS        ║
+╚══════════════════════════════════════════════════╝
+```
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/languages?username=meyat&theme=aurora" alt="Top Languages" />
-</p>
+</div>
 
-## 🚀 Featured Projects
+## 🔥 About Me
 
-### [mydigitalstore](https://github.com/meyat/mydigitalstore) `TypeScript`
-Toko Digital Vincentstore
-⭐ 0 | 🍴 0
+```javascript
+const vincent = {
+    name: "Vincent Jordan",
+    username: "meyat",
+    location: "Indonesia",
+    role: "Automation & Bot Builder",
 
-### [auto-ppt](https://github.com/meyat/auto-ppt) `JavaScript`
-Auto buat PPT khotbah dari materi, Convert ke PPTX ukuran 16:8 atau 4:3
-⭐ 0 | 🍴 0
+    interests: [
+        "Automation Tools",
+        "WhatsApp Bots",
+        "Trading Bots",
+        "AI-Powered Agents",
+        "Side Projects"
+    ],
 
-### [Gmail-Dot](https://github.com/meyat/Gmail-Dot) `JavaScript`
-Generate semua variasi titik (dot) dari satu alamat email
-⭐ 0 | 🍴 0
+    motto: "Code. Build. Automate. Repeat."
+};
+```
 
-### [bot-wa](https://github.com/meyat/bot-wa) `JavaScript`
-Bot WA dengan fitur yang cukup lengkap - Punya Meyat
-⭐ 0 | 🍴 0
+I build bots, automation systems, and software tools that reduce repetitive work.
 
+From chat automation and trading tools to game bots and AI-powered workflows, I enjoy turning ideas into practical projects.
 
-
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=meyat&theme=aurora&style=jet&mode=light" /><img src="https://www.gitskins.com/api/section/heatmap?username=meyat&theme=aurora&style=jet" alt="meyat contribution activity, with a jet firing at their busiest days" /></picture>
-</p>
-
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=meyat&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/highlights?username=meyat&theme=aurora" alt="meyat highlights" /></picture>
-</p>
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=meyat&theme=aurora&website=https%3A%2F%2Fvinjor.web.id&mode=light" /><img src="https://www.gitskins.com/api/section/social?username=meyat&theme=aurora&website=https%3A%2F%2Fvinjor.web.id" alt="meyat social links" /></picture>
-</p>
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/meyat) [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vinjor.web.id)
+* 🤖 Building bots and automation tools
+* 🧠 Exploring AI agents and intelligent workflows
+* ⚙️ Automating repetitive tasks
+* 🚀 Developing useful side projects
+* 🌐 Portfolio: [vinjor.web.id](https://vinjor.web.id)
 
 ---
 
-<p align="center">Profile README generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></p>
+## 🩸 Hellfire Statistics
+
+<div align="center">
+
+<img
+width="100%"
+src="https://www.gitskins.com/api/premium-card?username=meyat&theme=satan"
+alt="Meyat GitHub statistics"
+/>
+
+<br>
+
+<img
+width="100%"
+src="https://www.gitskins.com/api/languages?username=meyat&theme=satan"
+alt="Meyat most-used languages"
+/>
+
+</div>
+
+---
+
+## ⚔️ Languages & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,html,css,git,github,vscode&theme=dark" alt="Languages and development tools">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/TypeScript-160808?style=for-the-badge&logo=typescript&logoColor=FF5722" alt="TypeScript">
+<img src="https://img.shields.io/badge/JavaScript-160808?style=for-the-badge&logo=javascript&logoColor=FFB300" alt="JavaScript">
+<img src="https://img.shields.io/badge/Node.js-160808?style=for-the-badge&logo=node.js&logoColor=FF5722" alt="Node.js">
+<img src="https://img.shields.io/badge/HTML5-160808?style=for-the-badge&logo=html5&logoColor=FF5722" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-160808?style=for-the-badge&logo=css3&logoColor=FF5722" alt="CSS3">
+<img src="https://img.shields.io/badge/Git-160808?style=for-the-badge&logo=git&logoColor=FF5722" alt="Git">
+
+</div>
+
+---
+
+## ☠️ Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 My Digital Store
+
+Digital product store developed using TypeScript.
+
+**Main focus:**
+
+* Digital product management
+* Storefront experience
+* Modern web development
+
+<a href="https://github.com/meyat/mydigitalstore">
+  <img src="https://img.shields.io/badge/View_Repository-FF3D00?style=for-the-badge&logo=github&logoColor=white" alt="View My Digital Store repository">
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📽️ Auto PPT
+
+Automatically creates sermon presentation files from provided material.
+
+**Main focus:**
+
+* Automated presentation creation
+* PPTX file generation
+* 16:9 and 4:3 layouts
+
+<a href="https://github.com/meyat/auto-ppt">
+  <img src="https://img.shields.io/badge/View_Repository-FF3D00?style=for-the-badge&logo=github&logoColor=white" alt="View Auto PPT repository">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📧 Gmail Dot Generator
+
+Generates valid dot variations from a single Gmail address.
+
+**Main focus:**
+
+* Email variation generation
+* Simple automation
+* JavaScript utility
+
+<a href="https://github.com/meyat/Gmail-Dot">
+  <img src="https://img.shields.io/badge/View_Repository-FF3D00?style=for-the-badge&logo=github&logoColor=white" alt="View Gmail Dot repository">
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 WhatsApp Bot
+
+A WhatsApp bot containing a collection of automation features.
+
+**Main focus:**
+
+* WhatsApp automation
+* Bot commands
+* JavaScript development
+
+<a href="https://github.com/meyat/bot-wa">
+  <img src="https://img.shields.io/badge/View_Repository-FF3D00?style=for-the-badge&logo=github&logoColor=white" alt="View WhatsApp Bot repository">
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌋 Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://www.gitskins.com/api/section/heatmap?username=meyat&theme=satan&style=jet&mode=light"
+  >
+  <img
+    width="100%"
+    src="https://www.gitskins.com/api/section/heatmap?username=meyat&theme=satan&style=jet"
+    alt="Meyat contribution activity"
+  >
+</picture>
+
+</div>
+
+---
+
+## 🏆 Profile Highlights
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://www.gitskins.com/api/section/highlights?username=meyat&theme=satan&mode=light"
+  >
+  <img
+    width="100%"
+    src="https://www.gitskins.com/api/section/highlights?username=meyat&theme=satan"
+    alt="Meyat GitHub profile highlights"
+  >
+</picture>
+
+</div>
+
+---
+
+## 📡 Connect With Me
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://www.gitskins.com/api/section/social?username=meyat&theme=satan&website=https%3A%2F%2Fvinjor.web.id&mode=light"
+  >
+  <img
+    width="100%"
+    src="https://www.gitskins.com/api/section/social?username=meyat&theme=satan&website=https%3A%2F%2Fvinjor.web.id"
+    alt="Meyat social links"
+  >
+</picture>
+
+<br>
+
+<a href="https://github.com/meyat">
+  <img src="https://img.shields.io/badge/GitHub-160808?style=for-the-badge&logo=github&logoColor=FF5722" alt="GitHub">
+</a>
+<a href="https://vinjor.web.id">
+  <img src="https://img.shields.io/badge/Website-160808?style=for-the-badge&logo=googlechrome&logoColor=FF5722" alt="Website">
+</a>
+<a href="https://instagram.com/vinnc6">
+  <img src="https://img.shields.io/badge/Instagram-160808?style=for-the-badge&logo=instagram&logoColor=FF5722" alt="Instagram">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+```text
+🔥 GOT A REPETITIVE TASK? LET'S AUTOMATE IT. 🔥
+```
+
+<img src="https://komarev.com/ghpvc/?username=meyat&style=for-the-badge&color=FF3D00&label=PROFILE+VIEWS" alt="Profile views">
+
+<br><br>
+
+<sub>Built with code, automation, and a little hellfire.</sub>
+
+</div>
