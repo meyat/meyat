@@ -41,7 +41,7 @@
 | 💰 **[Duwitku](https://github.com/meyat/Duwitku)** | Website financial tracker |
 | ✉️ **[Gmail-Dot](https://github.com/meyat/Gmail-Dot)** | Generate semua variasi titik (dot) dari satu alamat Gmail |
 | 🤖 **[Bot WA](https://github.com/meyat/bot-wa)** | WhatsApp bot dengan berbagai menu fitur |
-| 📊 **[Auto PPT](https://github.com/meyat/auto-ppt)** | Convert teks jadi slide PPTX otomatis via OpenAI |
+| 📊 **[Auto PPT](https://github.com/meyat/auto-ppt)** | Convert teks jadi slide PPTX otomatis via OpenAI untuk kebutuhan rohani |
 | 🛒 **[Store Digital](https://github.com/meyat/mydigitalstore)** | Platform toko digital lengkap |
 
 ---
