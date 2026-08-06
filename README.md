@@ -1,66 +1,70 @@
-<p align="center">
-  <img src="assets/banner.gif" alt="Meyat banner" width="100%" />
-</p>
-
-<h1 align="center">Hi there, I'm Vincent 👋</h1>
-<h3 align="center">Vibe Coder 🤙</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Vincent%20Jordan;Welcome+to+my+profile!" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=B026FF&center=true&vCenter=true&width=600&lines=Building+small+tools+that+solve+real+problems;Financial+trackers+%7C+WA+bots+%7C+AI+automation;JavaScript+%7C+Python+%7C+Node.js;Open+to+freelance+%26+collab" alt="Typing SVG" />
+  <img src="https://avatars.githubusercontent.com/u/296429951?u=58a23376407349e0b14ed4dd73a48d8335d9534c&v=4" width="150" style="border-radius: 50%;" alt="Vincent Jordan" />
+</p>
+
+## 👨‍💻 About Me
+
+Code. Build. Learn. Repeat.
+
+- 📍 Based in **Indonesia**
+- 🌐 Check out my [website](https://vinjor.web.id)
+- 👥 **0** followers · **1** following
+
+## 🛠️ Languages & Tools
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/premium-card?username=meyat&theme=aurora" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=meyat&label=Profile%20Views&color=b026ff&style=for-the-badge" alt="Profile views" />
+  <img src="https://www.gitskins.com/api/languages?username=meyat&theme=aurora" alt="Top Languages" />
 </p>
+
+## 🚀 Featured Projects
+
+### [mydigitalstore](https://github.com/meyat/mydigitalstore) `TypeScript`
+Toko Digital Vincentstore
+⭐ 0 | 🍴 0
+
+### [auto-ppt](https://github.com/meyat/auto-ppt) `JavaScript`
+Auto buat PPT khotbah dari materi, Convert ke PPTX ukuran 16:8 atau 4:3
+⭐ 0 | 🍴 0
+
+### [Gmail-Dot](https://github.com/meyat/Gmail-Dot) `JavaScript`
+Generate semua variasi titik (dot) dari satu alamat email
+⭐ 0 | 🍴 0
+
+### [bot-wa](https://github.com/meyat/bot-wa) `JavaScript`
+Bot WA dengan fitur yang cukup lengkap - Punya Meyat
+⭐ 0 | 🍴 0
+
+
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=meyat&theme=aurora&style=jet&mode=light" /><img src="https://www.gitskins.com/api/section/heatmap?username=meyat&theme=aurora&style=jet" alt="meyat contribution activity, with a jet firing at their busiest days" /></picture>
+</p>
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=meyat&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/highlights?username=meyat&theme=aurora" alt="meyat highlights" /></picture>
+</p>
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=meyat&theme=aurora&website=https%3A%2F%2Fvinjor.web.id&mode=light" /><img src="https://www.gitskins.com/api/section/social?username=meyat&theme=aurora&website=https%3A%2F%2Fvinjor.web.id" alt="meyat social links" /></picture>
+</p>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/meyat) [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vinjor.web.id)
 
 ---
 
-### 👨‍💻 About Me
-
-- 🌏 Based in **Indonesia**
-- 🤙 I'm a vibe coder — I build practical tools, from web apps to bots to AI-powered automation
-- 🔧 Been building: a financial tracker, a multi-menu WhatsApp bot, an AI text-to-PPTX converter, and a digital store platform
-- 🌱 Exploring automation and AI-assisted workflows
-- 💬 Down to talk about side-project ideas, automation, or random builds
-- 📷 Instagram: [@vinnc6](https://instagram.com/vinnc6)
-
----
-
-### 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,nodejs,html,git&theme=dark" alt="Skill Icons" />
-</p>
-
----
-
-### 📌 Projects
-
-| Project | Description |
-|---|---|
-| 💰 **[Duwitku](https://github.com/meyat/Duwitku)** | Website financial tracker |
-| ✉️ **[Gmail-Dot](https://github.com/meyat/Gmail-Dot)** | Generate semua variasi titik (dot) dari satu alamat Gmail |
-| 🤖 **[Bot WA](https://github.com/meyat/bot-wa)** | WhatsApp bot dengan berbagai menu fitur |
-| 📊 **[Auto PPT](https://github.com/meyat/auto-ppt)** | Convert teks jadi slide PPTX otomatis via OpenAI untuk kebutuhan rohani |
-| 🛒 **[Store Digital](https://github.com/meyat/mydigitalstore)** | Platform toko digital lengkap |
-
----
-
-### 📊 Quick Stats
-
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=b026ff&label=Public%20Repos&style=for-the-badge&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmeyat" alt="Public Repos" />
-  <img src="https://img.shields.io/github/stars/meyat?label=Total%20Stars&style=for-the-badge&color=b026ff" alt="Total Stars" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Freelance%20%2F%20Collab-2E9EF7?style=for-the-badge" alt="open to" />
-</p>
-
-<p align="center">
-  <a href="https://instagram.com/vinnc6"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
-<p align="center"><i>⚡ Got an idea for a small tool or script? Let's build it.</i></p>
+<p align="center">Profile README generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></p>
