@@ -38,11 +38,11 @@
 
 | Project | Description |
 |---|---|
-| 💰 **Duwitku** | Website financial tracker |
+| 💰 **[Duwitku](https://github.com/meyat/Duwitku)** | Website financial tracker |
 | ✉️ **[Gmail-Dot](https://github.com/meyat/Gmail-Dot)** | Generate semua variasi titik (dot) dari satu alamat Gmail |
-| 🤖 **Bot WA** | WhatsApp bot dengan berbagai menu fitur |
-| 📊 **Auto PPT** | Convert teks jadi slide PPTX otomatis via OpenAI |
-| 🛒 **Store Digital** | Platform toko digital lengkap |
+| 🤖 **[Bot WA](https://github.com/meyat/bot-wa)** | WhatsApp bot dengan berbagai menu fitur |
+| 📊 **[Auto PPT](https://github.com/meyat/auto-ppt)** | Convert teks jadi slide PPTX otomatis via OpenAI |
+| 🛒 **[Store Digital](https://github.com/meyat/mydigitalstore)** | Platform toko digital lengkap |
 
 ---
 
