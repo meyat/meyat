@@ -1,117 +1,64 @@
-<div align="center">
+<p align="center">
+  <a href="https://github.com/meyat">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=e5484d&fontSize=54&height=90&width=698&text=Hello!%20I'm%20Vincent!" alt="Hello! I&#39;m Vincent!" />
+  </a>
+</p>
 
-<img
-src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=FF3D00&center=true&vCenter=true&width=700&lines=Vincent+Jordan;Automation+%26+Bot+Builder;Code.+Build.+Automate.+Repeat."
-alt="Typing introduction"
-/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff7b72&center=true&vCenter=true&width=550&height=44&lines=Automation%20Bot%20and%20Website%20Builder;Code.%20Build.%20Learn.%20Repeat." alt="Typing headlines" />
+</p>
 
-<br>
+### 🚀 About Me
 
-<img
-src="https://avatars.githubusercontent.com/u/296429951?v=4"
-width="145"
-alt="Vincent Jordan"
-/>
+I build bots, automation systems, and software tools that reduce repetitive work.  
+From chat automation and trading tools to game bots and AI-powered workflows, I enjoy turning ideas into practical projects.  
+- Building bots and automation tools  
+Exploring AI agents and intelligent workflows  
+Automating repetitive tasks  
+Developing useful side projects  
+Portfolio: vinjor.web.id
 
-<br><br>
+🔭 &nbsp;I'm currently working on **CV Ats Generator &amp; Automatic Job Finder**  
+🌱 &nbsp;I'm currently learning **Distributed System**  
+💬 &nbsp;Ask me about **React, Node JS, Typescript**  
+😄 &nbsp;Pronouns: **he/him**  
+⚡ &nbsp;Fun fact: **I love coding while drinking my coffee**
 
-<a href="https://github.com/meyat">
-  <img src="https://img.shields.io/github/followers/meyat?label=Followers&style=for-the-badge&color=E53935&labelColor=160808" alt="GitHub followers">
-</a>
-<a href="https://github.com/meyat?tab=repositories">
-  <img src="https://img.shields.io/badge/Public_Repositories-6-FF5722?style=for-the-badge&labelColor=160808" alt="Public repositories">
-</a>
-<a href="https://vinjor.web.id">
-  <img src="https://img.shields.io/badge/Portfolio-vinjor.web.id-FF9800?style=for-the-badge&labelColor=160808" alt="Portfolio">
-</a>
+### 🛠️ Tech Stack
 
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
 
-<br>
+### 🔗 Connect With Me
 
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════╗
-║        AUTOMATION • BOTS • SOFTWARE TOOLS        ║
-╚══════════════════════════════════════════════════╝
-```
-
-</div>
-
-## 🔥 About Me
-
-```javascript
-const vincent = {
-    name: "Vincent Jordan",
-    username: "meyat",
-    location: "Indonesia",
-    role: "Automation & Bot Builder",
-
-    interests: [
-        "Automation Tools",
-        "WhatsApp Bots",
-        "Trading Bots",
-        "AI-Powered Agents",
-        "Side Projects"
-    ],
-
-    motto: "Code. Build. Automate. Repeat."
-};
-```
-
-I build bots, automation systems, and software tools that reduce repetitive work.
-
-From chat automation and trading tools to game bots and AI-powered workflows, I enjoy turning ideas into practical projects.
-
-* 🤖 Building bots and automation tools
-* 🧠 Exploring AI agents and intelligent workflows
-* ⚙️ Automating repetitive tasks
-* 🚀 Developing useful side projects
-* 🌐 Portfolio: [vinjor.web.id](https://vinjor.web.id)
-
----
-
-## 🩸 Hellfire Statistics
-
-<div align="center">
-
-<img
-width="100%"
-src="https://www.gitskins.com/api/premium-card?username=meyat&theme=satan"
-alt="Meyat GitHub statistics"
-/>
-
-<br>
-
-<img
-width="100%"
-src="https://www.gitskins.com/api/languages?username=meyat&theme=satan"
-alt="Meyat most-used languages"
-/>
-
-</div>
-
----
-
-## ⚔️ Languages & Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,html,css,git,github,vscode&theme=dark" alt="Languages and development tools">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/TypeScript-160808?style=for-the-badge&logo=typescript&logoColor=FF5722" alt="TypeScript">
-<img src="https://img.shields.io/badge/JavaScript-160808?style=for-the-badge&logo=javascript&logoColor=FFB300" alt="JavaScript">
-<img src="https://img.shields.io/badge/Node.js-160808?style=for-the-badge&logo=node.js&logoColor=FF5722" alt="Node.js">
-<img src="https://img.shields.io/badge/HTML5-160808?style=for-the-badge&logo=html5&logoColor=FF5722" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-160808?style=for-the-badge&logo=css3&logoColor=FF5722" alt="CSS3">
-<img src="https://img.shields.io/badge/Git-160808?style=for-the-badge&logo=git&logoColor=FF5722" alt="Git">
-
-</div>
-
----
+<p align="left">
+  <a href="https://www.linkedin.com/in/vincent-jordan-b5ba2b219/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/vinnc6" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://tiktok.com/@vinnc6" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="mailto:vinjor55@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>---
 
 ## ☠️ Featured Projects
 
@@ -119,7 +66,7 @@ alt="Meyat most-used languages"
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 My Digital Store
+### My Digital Store
 
 Digital product store developed using TypeScript.
 
@@ -136,7 +83,7 @@ Digital product store developed using TypeScript.
 </td>
 <td width="50%" valign="top">
 
-### 📽️ Auto PPT
+### Auto PPT
 
 Automatically creates sermon presentation files from provided material.
 
@@ -156,7 +103,7 @@ Automatically creates sermon presentation files from provided material.
 <tr>
 <td width="50%" valign="top">
 
-### 📧 Gmail Dot Generator
+### Gmail Dot Generator
 
 Generates valid dot variations from a single Gmail address.
 
@@ -173,7 +120,7 @@ Generates valid dot variations from a single Gmail address.
 </td>
 <td width="50%" valign="top">
 
-### 🤖 WhatsApp Bot
+### WhatsApp Bot
 
 A WhatsApp bot containing a collection of automation features.
 
@@ -193,88 +140,23 @@ A WhatsApp bot containing a collection of automation features.
 
 ---
 
-## 🌋 Contribution Activity
+### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=meyat&layout=compact&theme=default&title_color=e5484d&icon_color=e5484d&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://www.gitskins.com/api/section/heatmap?username=meyat&theme=satan&style=jet&mode=light"
-  >
-  <img
-    width="100%"
-    src="https://www.gitskins.com/api/section/heatmap?username=meyat&theme=satan&style=jet"
-    alt="Meyat contribution activity"
-  >
-</picture>
+### 📈 Contribution Graph
 
-</div>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=meyat&bg_color=00000000&color=e5484d&line=e5484d&point=1f2328&area=true&hide_border=true" alt="activity graph" />
+</p>
 
----
+### 💭 Dev Quote
 
-## 🏆 Profile Highlights
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://www.gitskins.com/api/section/highlights?username=meyat&theme=satan&mode=light"
-  >
-  <img
-    width="100%"
-    src="https://www.gitskins.com/api/section/highlights?username=meyat&theme=satan"
-    alt="Meyat GitHub profile highlights"
-  >
-</picture>
-
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" alt="Dev quote" />
+</p>
 
 ---
-
-## 📡 Connect With Me
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://www.gitskins.com/api/section/social?username=meyat&theme=satan&website=https%3A%2F%2Fvinjor.web.id&mode=light"
-  >
-  <img
-    width="100%"
-    src="https://www.gitskins.com/api/section/social?username=meyat&theme=satan&website=https%3A%2F%2Fvinjor.web.id"
-    alt="Meyat social links"
-  >
-</picture>
-
-<br>
-
-<a href="https://github.com/meyat">
-  <img src="https://img.shields.io/badge/GitHub-160808?style=for-the-badge&logo=github&logoColor=FF5722" alt="GitHub">
-</a>
-<a href="https://vinjor.web.id">
-  <img src="https://img.shields.io/badge/Website-160808?style=for-the-badge&logo=googlechrome&logoColor=FF5722" alt="Website">
-</a>
-<a href="https://instagram.com/vinnc6">
-  <img src="https://img.shields.io/badge/Instagram-160808?style=for-the-badge&logo=instagram&logoColor=FF5722" alt="Instagram">
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-```text
-🔥 GOT A REPETITIVE TASK? LET'S AUTOMATE IT. 🔥
-```
-
-<img src="https://komarev.com/ghpvc/?username=meyat&style=for-the-badge&color=FF3D00&label=PROFILE+VIEWS" alt="Profile views">
-
-<br><br>
-
-<sub>Built with code, automation, and a little hellfire.</sub>
-
-</div>
+<p align="center"><i>⭐️ From <a href="https://github.com/meyat">meyat</a></i></p>
