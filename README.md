@@ -1,4 +1,6 @@
-![Banner](assets/banner.gif)
+<p align="center">
+  <img src="assets/banner.gif" alt="Banner" width="100%">
+</p>
 
 <p align="center">
   <a href="https://github.com/meyat">
