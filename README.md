@@ -17,10 +17,10 @@
 I build bots, automation systems, and software tools that reduce repetitive work.  
 From chat automation and trading tools to game bots and AI-powered workflows, I enjoy turning ideas into practical projects.  
 - Building bots and automation tools  
-Exploring AI agents and intelligent workflows  
-Automating repetitive tasks  
-Developing useful side projects  
-Portfolio: vinjor.web.id
+- Exploring AI agents and intelligent workflows  
+- Automating repetitive tasks  
+- Developing useful side projects  
+- Portfolio: vinjor.web.id
 
 🔭 &nbsp;I'm currently working on **CV Ats Generator &amp; Automatic Job Finder**  
 🌱 &nbsp;I'm currently learning **Distributed System**  
@@ -62,7 +62,7 @@ Portfolio: vinjor.web.id
   <a href="https://instagram.com/vinnc6" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://tiktok.com/@vinnc6" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
   <a href="mailto:vinjor55@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>---
+</p>
 
 ## ☠️ Featured Projects
 
