@@ -1,3 +1,5 @@
+![Banner](assets/banner.gif)
+
 <p align="center">
   <a href="https://github.com/meyat">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=e5484d&fontSize=54&height=90&width=698&text=Hello!%20I'm%20Vincent!" alt="Hello! I&#39;m Vincent!" />
