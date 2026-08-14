@@ -84,7 +84,8 @@
 
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=meyat"
+    width="100%"
+    src="https://streak-stats.demolab.com?user=meyat&hide_border=true&background=0A101F"
     alt="GitHub Streak"
   />
 </div>
