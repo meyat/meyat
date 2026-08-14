@@ -81,11 +81,3 @@
 </a>
 
 </div>
-
-<div align="center">
-  <img
-    width="100%"
-    src="https://streak-stats.demolab.com?user=meyat&amp;hide_border=true&amp;background=0A101F&amp;ring=A78BFA&amp;fire=10B981&amp;currStreakLabel=22D3EE&amp;sideLabels=94A3B8&amp;currStreakNum=F8FAFC&amp;sideNums=F8FAFC&amp;dates=64748B"
-    alt="GitHub Streak"
-  />
-</div>
