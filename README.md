@@ -92,8 +92,8 @@ I'm **Vincent** (he/him) — an **Automation Bot & Website Builder**. I build bo
 ## Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meyat/meyat/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meyat/meyat/output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meyat/meyat/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meyat/meyat/output/github-snake.svg" />
   <img alt="Vincent's contribution snake" src="https://raw.githubusercontent.com/meyat/meyat/output/snake.svg" width="100%" />
 </picture>
 
